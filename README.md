@@ -45,8 +45,8 @@ Here are the technologies I work with:
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wali-00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Wali's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wali-00&theme=tokyonight&hide_border=true&background=0D1117" alt="Wali's Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wali-00&show_icons=true&theme=tokyonight&hide_border=true" alt="Wali's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wali-00&theme=tokyonight&hide_border=true" alt="Wali's Streak Stats" width="48%" />
 </p>
 ---
 <p align="center"><i>Let's connect and build something awesome together! 🚀</i></p>

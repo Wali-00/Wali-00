@@ -78,14 +78,6 @@ fun_fact: My code works and honestly even I don't know why!
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" alt="divider" />
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Wali-00&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" alt="divider" />
-
 <div align="center">
 
 ### 🤝 Let's Connect

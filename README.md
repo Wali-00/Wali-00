@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0077B5&height=220&section=header&text=Hi%20there,%20I'm%20Wali%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20Undergrad%20@%20United%20International%20University&descAlignY=55&descSize=18" alt="Header Banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Web+Developer;UI%2FUX+with+Figma;MySQL+%7C+Database+Design;Competitive+Programmer;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=550&lines=Web+Developer;UI%2FUX+with+Figma;MySQL+%7C+Database+Design;Building+a+Banking+Management+System;Competitive+Programmer" alt="Typing SVG" />
 
 <br>
 
@@ -24,7 +24,7 @@
 
 </div>
 
-<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" alt="divider" />
 
 ## 👨‍💻 About Me
 
@@ -35,8 +35,8 @@ name: Wali
 role: CSE Undergrad @ UIU
 focus: Web Development, UI/UX Design, Databases
 currently_learning: JavaScript (JS)
-currently_building: Eco Tracking System
-fun_fact: I love solving problems and writing clean code!
+currently_building: Banking Management System
+fun_fact: My code works and honestly even I don't know why!
 ```
 
 - 🎓 Studying **Computer Science and Engineering (CSE)** at **United International University**
@@ -44,10 +44,12 @@ fun_fact: I love solving problems and writing clean code!
 - 🎨 Recently picked up **Figma** for UI/UX design
 - 🗄️ Learning **MySQL** and database design
 - 🌱 Currently learning: **JavaScript (JS)**
-- 🔭 Currently working on: **Eco Tracking System**
-- ⚡ Fun fact: I love solving problems and writing clean code!
+- 🔭 Currently building: **Banking Management System**
+- ⚡ Fun fact: My code works and honestly even I don't know why!
 
-<br>
+<br clear="right">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" alt="divider" />
 
 ## 🛠️ Languages & Tools
 
@@ -55,17 +57,13 @@ fun_fact: I love solving problems and writing clean code!
   <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,mysql,figma,git,github&theme=dark" alt="Wali's Skills" />
 </p>
 
-<br clear="right">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" alt="divider" />
 
-## 🐍 Contribution Graph
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Wali-00/Wali-00/output/github-contribution-grid-snake.svg" alt="Snake animation eating my contributions" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wali-00&theme=tokyo-night&hide_border=true&area=true" alt="Wali's Activity Graph" width="100%" />
 </p>
-
-> ⚙️ **Setup note:** this snake animation needs a one-time GitHub Actions workflow to generate itself daily. I've added the exact steps at the bottom of this file — just enable it once and it'll animate automatically.
-
-<br>
 
 ## 📊 GitHub Stats
 
@@ -78,7 +76,7 @@ fun_fact: I love solving problems and writing clean code!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wali-00&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
-<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" alt="divider" />
 
 ## 🏆 GitHub Trophies
 
@@ -86,7 +84,7 @@ fun_fact: I love solving problems and writing clean code!
   <img src="https://github-profile-trophy.vercel.app/?username=Wali-00&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
 </p>
 
-<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" alt="divider" />
 
 <div align="center">
 
@@ -99,49 +97,3 @@ fun_fact: I love solving problems and writing clean code!
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C9A7&height=120&section=footer" alt="Footer Banner" width="100%" />
-
-<br>
-
-<details>
-<summary>⚙️ One-time setup for the snake animation (click to expand)</summary>
-
-<br>
-
-The snake graph above needs a small GitHub Actions workflow to generate itself. Do this once:
-
-1. In this repo (`Wali-00/Wali-00`), go to **Settings → Actions → General** and make sure "Read and write permissions" is enabled under Workflow permissions.
-2. Create a new file at `.github/workflows/snake.yml` with this content:
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  push:
-    branches: [ main ]
-  workflow_dispatch: {}
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Wali-00
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Commit it, then run the workflow once manually from the **Actions** tab. After that it regenerates daily on its own.
-
-</details>

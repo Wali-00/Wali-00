@@ -62,18 +62,18 @@ fun_fact: My code works and honestly even I don't know why!
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wali-00&theme=tokyo-night&hide_border=true&area=true" alt="Wali's Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph-nu-sable.vercel.app/graph?username=Wali-00&theme=tokyo-night&hide_border=true&area=true" alt="Wali's Activity Graph" width="100%" />
 </p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wali-00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Wali's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-gules-nine-77.vercel.app/api?username=Wali-00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Wali's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wali-00&theme=tokyonight&hide_border=true" alt="Wali's Streak Stats" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wali-00&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-gules-nine-77.vercel.app/api/top-langs/?username=Wali-00&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" alt="divider" />
